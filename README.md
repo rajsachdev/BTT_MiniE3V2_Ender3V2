@@ -1,3 +1,9 @@
+Jyers 1.3.4 using : Mini E3 V2 with Ender 3v2 using original 3v2 display (wiring in pins_BTT_SKR_MINI_E3_common)
+
+
+
+
+
 # Ender 3 V2 Extensible UI
 
 This fork was created with the intention of giving the best possible experience to E3V2 users. However, GitHub, flashing new firmware, etc. can all be quite daunting for new users. Pretty much everything you need to know is here on github, so here's a quick rundown of where to find what you need!
